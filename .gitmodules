@@ -1,0 +1,9 @@
+[submodule "software/src/sCommsAndCommand"]
+	path = software/src/sCommsAndCommand
+	url = https://github.com/SUSF-Robotics-and-Software/CommsAndCommand.git
+[submodule "software/src/sInputManager"]
+	path = software/src/sInputManager
+	url = https://github.com/SUSF-Robotics-and-Software/InputManager.git
+[submodule "software/src/sLocomotionControl"]
+	path = software/src/sLocomotionControl
+	url = https://github.com/SUSF-Robotics-and-Software/LocomotionControl.git
